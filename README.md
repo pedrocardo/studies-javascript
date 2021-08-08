@@ -2,7 +2,7 @@
 
 Esse repositório é elaborado a partir de estudos sobre a linguagem de programação JavaScript.
 
-Os conteúdos estudados estão organizados em arquivos no formato _markdown_.
+Os conteúdos estudados estão organizados em arquivos no formato _markdown_ e atualizados até a versão ES2020.
 
 ## Comentários
 
@@ -52,11 +52,3 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
   - [_Number_](tipos-de-dados-primitivos/number.md)
   - [_String_](tipos-de-dados-primitivos/string.md)
   - [_Undefined_](tipos-de-dados-primitivos/undefined.md)
-
-## Referências
-
-As principais fontes de informações para elaboração desse repositório estão listadas a seguir.
-
-- [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
-- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [W3Schools](https://www.w3schools.com/jsref/default.asp)
