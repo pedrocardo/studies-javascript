@@ -2,7 +2,7 @@
 
 Esse repositório é elaborado a partir de estudos sobre a linguagem de programação JavaScript.
 
-Os conteúdos estudados estão organizados em arquivos _markdown_ e atualizados até a versão ES2020.
+Os conteúdos estudados estão organizados em arquivos _markdown_.
 
 ## Comentários
 
