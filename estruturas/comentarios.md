@@ -2,7 +2,7 @@
 
 Comentários são trechos de código desconsiderados na execução do programa.
 
-Comentários de uma única linha devem ser iniciados por duas barras.
+Comentários de uma única linha devem ser precedidos por duas barras.
 
 ```javascript
 // isso é um comentário de linha única
