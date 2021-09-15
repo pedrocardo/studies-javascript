@@ -2,7 +2,7 @@
 
 Esse repositório é elaborado a partir de estudos sobre a linguagem de programação JavaScript.
 
-Os conteúdos estudados estão organizados em arquivos _markdown_.
+Os conteúdos estudados estão escritos em arquivos _markdown_.
 
 ## Comentários
 
