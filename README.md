@@ -33,7 +33,7 @@ Em blocos de código, comentários são utilizados para indicar o retorno de exp
   - [_JSON_](objetos/json.md)
   - [Objetos](objetos/objetos.md)
   - [Vetores](objetos/vetores.md)
-- Funções
+- Objetos nativos
   - [_Array_](objetos-nativos/array.md)
   - [_Boolean_](objetos-nativos/boolean.md)
   - [_Date_](objetos-nativos/date.md)
